@@ -44,9 +44,9 @@ nav a{
 .btn-primary{
     border-radius: 5px;
     background-color: #FD6E0A;
-    padding: 15px 35px;
+    padding: 20px 30px;
     border: none;
-    font-size: 20px;
+    font-size:25px;
     font-weight: 700;
     color: white;
     
@@ -150,4 +150,32 @@ main section{
     color: #474747;
     font-size: 30px;
     font-weight: 700; 
+}
+.resume-container{
+    display: flex;
+    gap: 70px;
+    margin-top: 50px;
+}
+.resume-item-descrition{
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
     }
+.resume-institute{
+    color: #757575;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 50px;
+    margin-top: 10px;
+
+}
+.resume-container hr{
+    margin: 30px auto;
+}
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+
